@@ -17,7 +17,8 @@ Send to A func. after entering values send to shortest path func to recive the d
       A(mat);
         shortestpath(mat);
 }
-/*send i,j to B and k,t  C.
+/*
+send i,j to B and k,t  C.
 print true or false to B according conditions.
 print -1 or ans value to C according conditions.
 */
