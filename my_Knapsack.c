@@ -3,10 +3,6 @@
     #define cap 20
     #define arr 5
     int main(){
-    /*
-   First get from the user 5 items with weight and value each.
-   use knapSack func to get the maximum profit and the items we take.
-   */
     char items[arr];
     int values[arr];
     int weights[arr];
